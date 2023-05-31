@@ -9,4 +9,9 @@ public class HomePage {
     //navigation menu
 
     //logo logo logo
+
+    //add more things
+
+    //footer
+
 }
